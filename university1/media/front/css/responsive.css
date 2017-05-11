@@ -1,0 +1,171 @@
+
+@media (max-width:1360px){
+.footer-links.social-links {
+  width: 16%;
+}
+footer {
+  padding: 15px 54px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+footer {
+  padding: 15px 5px;
+}
+.footer-links.social-links li {
+  margin-right: 6px;
+}
+.inner-pages footer {
+  padding: 0 15px;
+}
+.footer-links.social-links {
+  width: 16%;
+}
+.mid-content {
+  margin: 0 auto;
+  width: 100%;
+}
+.footer-links {
+  min-height: 260px;
+  width: 17%;
+}
+.footer-links.social-links {
+  float: right;
+  padding-right: 0;
+  width: 23%;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.footer-links {
+  min-height: 260px;
+  width: 33%;
+}
+.footer-links.social-links {
+  float: right;
+  padding-right: 0;
+  width: 50%;
+}
+.mid-content {
+  margin: 0 auto;
+  width: 100%;
+}
+.inner-pages.inner-section footer {
+  padding: 30px 30px 0;
+}
+.footer-links {
+  width: 18%;
+}
+}
+@media (max-width:767px){
+	.form-control {
+  font-size: 13px;
+}
+body{
+	padding:50px 0;
+}
+.middle-section{
+	padding-bottom:0;
+}
+.video-section {
+  width: 100%;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+}
+.footer-links.social-links {
+  float: right;
+  padding-right: 0;
+  width: 50%;
+}
+.mid-content {
+  margin: 0 auto;
+  width: 100%;
+}
+.footer-links.social-links > h4 {
+  left: 00;
+  position: relative;
+}
+.footer-links.social-links > h4, .footer-links.social-links > ul {
+  float: none;
+}
+header img {
+  width: auto !important;
+}
+.inner-pages.inner-section footer{
+  padding: 30px 20px 0;
+}
+.menu {
+  width: 100%;
+}
+.form-margin{
+	margin-top:15px;
+}
+.inner-pages.inner-section footer {
+  padding: 30px;
+}
+}
+@media (max-width:479px){
+header img, .middle-section img{
+	width:100%;
+}
+.sign-btn {
+  height: 50px;
+  line-height: 36px;
+}
+ .middle-section img{
+	width:100%;
+}
+.footer-links {
+  width: 100%;
+  text-align:center;
+  min-height:inherit;
+}
+.footer-links.social-links {
+  float:left;
+  padding-right: 0;
+  width:100%;
+}
+.mid-section {
+  margin: 0 auto;
+  width: 100%;
+}
+.middle-section .head h2::after {
+  content: none;
+}
+.signout {
+  display: block;
+  width:100%;
+  position: relative;
+  float:none !important;
+  text-align: right;
+  font-size:12px;
+}
+.login-btn {
+  width: 100%;
+}
+.menu nav ul li {
+  min-width: 48px;
+}
+.menu nav ul li a {
+  font-size: 12px;
+  padding: 6px 5px;
+}
+.information-content img{
+	width:auto;
+}
+
+}
+@media (min-width:480px) and (max-width:767px){
+	.footer-links {
+  min-height: 263px;
+  text-align: left;
+  width: 33%;
+}
+.menu nav ul li {
+  min-width: 48px;
+}
+.menu nav ul li a {
+  font-size: 16px;
+  padding: 15px 14px;
+}
+}
